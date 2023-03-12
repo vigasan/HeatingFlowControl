@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Switch.qml</file>
+        <file>images/helvetica.ttf</file>
+        <file>ItemTemperature.qml</file>
+        <file>images/plan.png</file>
+        <file>Home.qml</file>
+        <file>Control.qml</file>
+        <file>images/back.png</file>
+        <file>images/settings.png</file>
+        <file>images/HelveticaSemiBold.ttf</file>
+        <file>Ctrl_ParameterBig.qml</file>
+        <file>images/PiuBGrande.png</file>
+        <file>images/MenoBGrande.png</file>
+    </qresource>
+</RCC>
